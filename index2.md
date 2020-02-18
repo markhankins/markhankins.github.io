@@ -1,6 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
---
+# Title goes here
 
-You made it!
+Blog post 1
