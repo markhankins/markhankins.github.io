@@ -19,7 +19,9 @@
                      ~~--._  l_   )                        \
                            ~-._~~~---._,____..---           \
                                ~----"~       \
-                                              \<a href="index2.html" style="color:white;">index2.html</a>
+                                              \
+                                              
+<a href="/index2" style="color:white;">index2.html</a>
 
 
 # Heading 1
