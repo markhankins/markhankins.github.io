@@ -1,4 +1,4 @@
-<a href="index2" style="color:white;">index2</a>
+<a href="/index2" style="color:white;">index2</a>
 
 
 # Heading 1
