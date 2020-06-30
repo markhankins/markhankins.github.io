@@ -1,3 +1,3 @@
 # Title goes here
 
-Blog post 1
+## Blog post 1
